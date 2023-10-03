@@ -1007,7 +1007,7 @@ address {
 }
 @media screen and (min-width: 1158px) {
     .footer {
-        max-width: 1158px;
+        max-width: 1440px;
         padding: 100px 0;
     }
     .footer .container {
